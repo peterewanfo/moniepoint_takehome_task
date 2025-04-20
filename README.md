@@ -50,3 +50,11 @@ flutter run
 ```bash
 flutter test
 ```
+
+## Preview
+![Alt text](https://github.com/peterewanfo/moniepoint_takehome_task/blob/main/screenshots/Recorded.gif?raw=true "Screen Record")
+
+## Screenshots
+
+![Alt text](https://github.com/peterewanfo/moniepoint_takehome_task/blob/main/screenshots/Screenshot1.png?raw=true "Home Screen")
+![Alt text](https://github.com/peterewanfo/moniepoint_takehome_task/blob/main/screenshots/Screenshot2.png?raw=true "Map Search Screen")

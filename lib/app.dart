@@ -14,7 +14,7 @@ class App extends StatelessWidget {
       designSize: const Size(360, 720),
       builder: (context, child) {
         return MaterialApp(
-          title: 'Moniepoint Task',
+          title: 'Real Estate App',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             colorScheme: const ColorScheme.light(

@@ -16,11 +16,8 @@ void main() {
       ScreenUtilInit(
         designSize: resolution, 
         builder: (context, child) {
-          return const MediaQuery(
-            data: MediaQueryData(size: Size(375, 812)),
-            child: MaterialApp(
-              home: HomePage(),
-            ),
+          return const MaterialApp(
+            home: HomePage(),
           );
         },
       ),

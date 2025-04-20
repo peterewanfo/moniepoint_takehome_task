@@ -38,7 +38,7 @@ class HomeHeaderWidget extends StatelessWidget {
                 const XMargin(6),
                 Expanded(
                   child: Text(
-                    "Saint Petersburg asdfas dfasd fsadf asd fsadf sadfasd sa ddafsdfsdfsdf sdf sd fsd",
+                    "Saint Petersburg",
                     style: CustomStyle.textStyleBody.copyWith(
                       fontSize: 12.sp,
                       fontWeight: FontWeight.w500,
